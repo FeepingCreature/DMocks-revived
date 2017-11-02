@@ -1,12 +1,10 @@
 module dmocks.method_mock;
 
-import std.stdio;
-import std.traits;
-import std.conv;
-
-import dmocks.util;
-import dmocks.repository;
 import dmocks.qualifiers;
+import dmocks.repository;
+
+import std.conv;
+import std.traits;
 
 package:
 
